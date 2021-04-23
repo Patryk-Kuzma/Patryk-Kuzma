@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Patryk-Kuzma
+- 👋 Hi, I’m Patryk Kuzma
 - 👀 I’m interested in python language
-- 🌱 I’m currently learning computer vision
-- 💞️ I’m looking to collaborate on developing python projects
+- 🌱 I’m currently learning Google Cloud Foundations with daftacademy (https://daftacademy.pl/courses/ZPptVZ)
+- 💞️ I’m currently working on django framework so as to develop my spreadsheet app with online access.
 
 
 <!---
