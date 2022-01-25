@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Patryk Kuzma
-- 👀 I’m interested in python language
-- 🌱 I’m currently learning Google Cloud Foundations with daftacademy (https://daftacademy.pl/courses/ZPptVZ)
+- 👀 I’m interested in python language and trekking
+- 🌱 I’m currently learning Udemy 100 Days of Code: The Complete Python Pro Bootcamp for 2022 by Dr. Angela Yu
 - 💞️ I’m currently working on django framework so as to develop my spreadsheet app with online access.
 
 
